@@ -165,7 +165,7 @@ img {
 
 /* Home */
 #home {
-    background-image: url(..\images\bannerimage.jpg);
+    background-image: url("\images\bannerimage.jpg");
     background-position: center;
     background-size: cover;
 }
